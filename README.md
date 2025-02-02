@@ -51,7 +51,7 @@ CREATE DATABASE ecommerce_db;
 ```python
 SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:SUA_SENHA@localhost/ecommerce_db'
 ```
-
+4. Caso o servidor não esteja rodando, utilize o comando "net start MySQL80" para iniciar o servidor.
 ---
 
 ## 🔄 Criar Estrutura do Banco
